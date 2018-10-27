@@ -1,0 +1,37 @@
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\obj\Debug\Auth.ip.resources
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\obj\Debug\Auth_unpacked.csproj.GenerateResource.Cache
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\bin\Debug\pbserver_auth.exe
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\bin\Debug\pbserver_auth.pdb
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\bin\Debug\CrashReporter.NET.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\bin\Debug\CronMz.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\bin\Debug\Npgsql.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\bin\Debug\pbserver_core.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\bin\Debug\pbserver_game.exe
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\obj\Debug\pbserver_auth.exe
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Auth_unpacked\obj\Debug\pbserver_auth.pdb
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\bin\Debug\pbserver_auth.exe
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\bin\Debug\pbserver_auth.pdb
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\bin\Debug\CrashReporter.NET.dll
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\bin\Debug\CronMz.dll
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\bin\Debug\Npgsql.dll
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\bin\Debug\pbserver_core.dll
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\bin\Debug\pbserver_game.exe
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\obj\Debug\Auth.ip.resources
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\obj\Debug\Auth_unpacked.csproj.GenerateResource.Cache
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\obj\Debug\pbserver_auth.exe
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\obj\Debug\pbserver_auth.pdb
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Auth_unpacked\obj\Debug\Auth_unpacked.csprojResolveAssemblyReference.cache
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\bin\Debug\pbserver_auth.exe
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\bin\Debug\pbserver_auth.pdb
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\bin\Debug\CrashReporter.NET.dll
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\bin\Debug\CronMz.dll
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\bin\Debug\Npgsql.dll
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\bin\Debug\pbserver_core.dll
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\bin\Debug\pbserver_game.exe
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\obj\Debug\Auth_unpacked.csprojAssemblyReference.cache
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\obj\Debug\Auth.ip.resources
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\obj\Debug\Auth_unpacked.csproj.GenerateResource.cache
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\obj\Debug\Auth_unpacked.csproj.CoreCompileInputs.cache
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\obj\Debug\Auth_unpacked.csproj.CopyComplete
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\obj\Debug\pbserver_auth.exe
+C:\Users\2R\Desktop\Project UPD3\Auth_unpacked\obj\Debug\pbserver_auth.pdb

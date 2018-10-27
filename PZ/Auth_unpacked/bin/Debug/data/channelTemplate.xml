@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list server_id="1" >
+	<channel id="0" type="3" ip="127.0.0.1" port="39191"/>
+	<channel id="1" type="2" ip="127.0.0.1" port="39191"/>
+	<channel id="2" type="1" ip="127.0.0.1" port="39191"/>
+	<channel id="3" type="1" ip="127.0.0.1" port="39191"/>
+	<channel id="4" type="1" ip="127.0.0.1" port="39191"/>
+	<channel id="5" type="1" ip="127.0.0.1" port="39191"/>
+	<channel id="6" type="1" ip="127.0.0.1" port="39191"/>
+	<channel id="7" type="1" ip="127.0.0.1" port="39191"/>
+	<channel id="8" type="5" ip="127.0.0.1" port="39191"/>
+	<channel id="9" type="4" ip="127.0.0.1" port="39191"/>
+</list>

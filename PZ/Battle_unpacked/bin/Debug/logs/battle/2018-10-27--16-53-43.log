@@ -1,0 +1,42 @@
+               ________  _____  __      ______ _______          
+              / ____/  |/  / / / /     / /  / / /  / /          
+             / __/ / /|_/ / / / /     / /__/_/ /__/ /           
+            / /___/ /  / / /_/ / _   / /    / /  / /            
+                                                                
+[Aviso] Servidor ativo em auth.ongame.net:40009
+[Aviso] Sincronizar infos ao servidor: True
+[Aviso] Limite de drops: 25
+[Aviso] Duração da C4: (5,5s/6,5s)
+[Aviso] Super munição: False
+[Aviso] Loaded 54 maps
+[Aviso] Loaded 76 charas information
+[Aviso] Loaded 20 melee exceptions
+System.Net.Sockets.SocketException (0x80004005): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+   em Npgsql.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   em Npgsql.NpgsqlConnector.<RawOpen>d__153.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.NpgsqlConnector.<Open>d__149.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.ConnectorPool.<AllocateLong>d__19.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em System.Threading.Tasks.ValueTask`1.get_Result()
+   em Npgsql.NpgsqlConnection.<>c__DisplayClass32_0.<<Open>g__OpenLong|0>d.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.NpgsqlConnection.Open()
+   em Battle.data.xml.ServersXML.Load() na C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\data\xml\ServersXML.cs:linha 35
+[Aviso] A Udp3 foi iniciado com sucesso.
+System.Net.Sockets.SocketException (0x80004005): Não há suporte para a operação tentada para o tipo de objeto a que é feita referência
+   em System.Net.Sockets.Socket.IOControl(Int32 ioControlCode, Byte[] optionInValue, Byte[] optionOutValue)
+   em Battle.data.sync.Battle_SyncNet.Start() na C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\data\sync\Battle_SyncNet.cs:linha 26
+System.Net.Sockets.SocketException (0x80004005): Não há suporte para a operação tentada para o tipo de objeto a que é feita referência
+   em System.Net.Sockets.Socket.IOControl(Int32 ioControlCode, Byte[] optionInValue, Byte[] optionOutValue)
+   em Battle.network.BattleManager.init() na C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\network\BattleManager.cs:linha 21
+Ocorreu um erro ao listar as conexões UDP!!

@@ -1,0 +1,40 @@
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\obj\Debug\Battle.ip.resources
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\obj\Debug\Battle_unpacked.csproj.GenerateResource.Cache
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\pbserver_battle.exe
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\pbserver_battle.pdb
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\CrashReporter.NET.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\Npgsql.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\SharpDX.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\da\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\de\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\es\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\fr\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\it\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\ko\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\nl\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\pl\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\ru\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\sv\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\bin\Debug\tr\CrashReporter.NET.resources.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\obj\Debug\pbserver_battle.exe
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\Battle_unpacked\obj\Debug\pbserver_battle.pdb
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Battle_unpacked\bin\Debug\pbserver_battle.exe
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Battle_unpacked\bin\Debug\pbserver_battle.pdb
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Battle_unpacked\bin\Debug\Npgsql.dll
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Battle_unpacked\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Battle_unpacked\obj\Debug\Battle.ip.resources
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Battle_unpacked\obj\Debug\Battle_unpacked.csproj.GenerateResource.Cache
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Battle_unpacked\obj\Debug\pbserver_battle.exe
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\Battle_unpacked\obj\Debug\pbserver_battle.pdb
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\bin\Debug\pbserver_battle.exe
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\bin\Debug\pbserver_battle.pdb
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\bin\Debug\Npgsql.dll
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\obj\Debug\Battle_unpacked.csprojAssemblyReference.cache
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\obj\Debug\Battle.ip.resources
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\obj\Debug\Battle_unpacked.csproj.GenerateResource.cache
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\obj\Debug\Battle_unpacked.csproj.CoreCompileInputs.cache
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\obj\Debug\Battle_unpacked.csproj.CopyComplete
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\obj\Debug\pbserver_battle.exe
+C:\Users\2R\Desktop\Project UPD3\Battle_unpacked\obj\Debug\pbserver_battle.pdb

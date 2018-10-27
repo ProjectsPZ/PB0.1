@@ -1,0 +1,48 @@
+               ________  _____  __      ______ _______          
+              / ____/  |/  / / / /     / /  / / /  / /          
+             / __/ / /|_/ / / / /     / /__/_/ /__/ /           
+            / /___/ /  / / /_/ / _   / /    / /  / /            
+                                                                
+             Data de Inicialização: 27/10/2018 16:38                 
+System.Net.Sockets.SocketException (0x80004005): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+   em Npgsql.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   em Npgsql.NpgsqlConnector.<RawOpen>d__153.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.NpgsqlConnector.<Open>d__149.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.ConnectorPool.<AllocateLong>d__19.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em System.Threading.Tasks.ValueTask`1.get_Result()
+   em Npgsql.NpgsqlConnection.<>c__DisplayClass32_0.<<Open>g__OpenLong|0>d.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.NpgsqlConnection.Open()
+   em Core.xml.BasicInventoryXML.Load()
+System.Net.Sockets.SocketException (0x80004005): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+   em Npgsql.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   em Npgsql.NpgsqlConnector.<RawOpen>d__153.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.NpgsqlConnector.<Open>d__149.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.ConnectorPool.<AllocateLong>d__19.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em System.Threading.Tasks.ValueTask`1.get_Result()
+   em Npgsql.NpgsqlConnection.<>c__DisplayClass32_0.<<Open>g__OpenLong|0>d.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.NpgsqlConnection.Open()
+   em Core.managers.server.ServerConfigSyncer.GenerateConfig(Int32 configId)

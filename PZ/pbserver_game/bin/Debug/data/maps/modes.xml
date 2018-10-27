@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+<map modes="0" tag="0" enable="false" /> <!-- ?? -->
+<map modes="TDM_Challenge,SniperMode,TDM_Supression,HeadHunter,ShotgunMode,CrossCounter,Chaos" tag="0" enable="true" /> <!-- Porto Akaba -->
+<map modes="TDM_Challenge,TDM_Supression,HeadHunter,ShotgunMode,CrossCounter" tag="0" enable="true" /> <!-- Red Rock -->
+<map modes="TDM_Challenge,SniperMode,TDM_Supression,ShotgunMode,CrossCounter,Chaos" tag="0" enable="true" /> <!-- Old Library -->
+<map modes="TDM_Challenge,SniperMode,TDM_Supression,HeadHunter,Chaos" tag="0" enable="true" /> <!-- Mstation -->
+<map modes="TDM_Challenge" tag="0" enable="true" /> <!-- Midnight Zone -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Uptown -->
+<map modes="SniperMode,TDM_Supression,HeadHunter,ShotgunMode,CrossCounter,Chaos" tag="0" enable="true" /> <!-- Burning Hall -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Dsquad -->
+<map modes="SniperMode,TDM_Supression,HeadHunter,ShotgunMode,Chaos" tag="0" enable="true" /> <!-- Crackdown -->
+<map modes="TDM_Challenge,SniperMode,TDM_Supression" tag="0" enable="true" /> <!-- Saint Mansion -->
+<map modes="SniperMode,TDM_Supression,HeadHunter,ShotgunMode" tag="0" enable="true" /> <!-- Eastern Road -->
+<map modes="TDM_Supression" tag="0" enable="false" /> <!-- Downtown -->
+<map modes="TDM_Supression" tag="0" enable="false" /> <!-- Luxville -->
+<map modes="TDM_Supression" tag="0" enable="false" /> <!-- Blow City -->
+<map modes="TDM_Supression" tag="0" enable="false" /> <!-- Storm Tube -->
+
+<map modes="TDM_Supression" tag="0" enable="true" /> <!-- Erro             -->
+<map modes="TDM_Supression" tag="0" enable="false" /> <!-- Breakdown        -->
+<map modes="SniperMode,TDM_Supression,HeadHunter,ShotgunMode" tag="0" enable="true" /> <!-- Training Camp -->
+<map modes="TDM_Supression" tag="0" enable="false" /> <!-- Sentry Base      -->
+<map modes="TDM_Supression,HeadHunter,ShotgunMode,CrossCounter,Chaos" tag="0" enable="true" /> <!-- Desert Camp -->
+<map modes="TDM_Supression" tag="0" enable="true" /> <!-- Kick Point -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Face Rock -->
+<map modes="TDM_Supression,HeadHunter,ShotgunMode" tag="0" enable="true" /> <!-- Supply Base -->
+<map modes="0" tag="0" enable="false" /> <!-- SandStorm        -->
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- 25 Downtown -->
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- Luxville -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- Out Post -->
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- Blow City -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- Storm Tube   -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- Sentry Base -->
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- Hospital -->
+
+
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- Downtown2 -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- 33 ShoppingCenter -->
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- SandStorm -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- Breakdown -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- Erro 2        -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- Erro 3        -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- Helispot    -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- Black Panther -->
+<map modes="0" tag="0" enable="true" /> <!-- Breeding Nest -->
+<map modes="0" tag="0" enable="true" /> <!-- Dino Uptown -->
+<map modes="0" tag="0" enable="true" /> <!-- Dino Breakdown -->
+<map modes="0" tag="0" enable="false" /> <!-- Erro 4           -->
+<map modes="Tutorial" tag="0" enable="true" /> <!-- Tutorial         -->
+<map modes="0" tag="0" enable="false" /> <!-- ShoppingCenter   -->
+<map modes="TDM_Supression,ShotgunMode,CrossCounter" tag="0" enable="true" /> <!-- Safari -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- DragonAlley -->
+
+
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- MachuPicchu -->
+<map modes="0" tag="0" enable="true" /> <!-- CargoShip -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Two Towers -->
+<map modes="0" tag="0" enable="true" /> <!-- Crackdown          -->
+<map modes="0" tag="0" enable="true" /> <!-- Saint Mansion      -->
+<map modes="0" tag="0" enable="true" /> <!-- D Squad           -->
+<map modes="0" tag="0" enable="true" /> <!-- Porto Akaba       -->
+<map modes="0" tag="0" enable="false" /> <!-- Mstation           -->
+<map modes="0" tag="0" enable="true" /> <!-- Training Camp    -->
+<map modes="TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- AngkorRuins -->
+<map modes="0" tag="0" enable="false" /> <!-- RedRock            -->
+<map modes="0" tag="0" enable="false" /> <!-- Safari             -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Ghost Town -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- GrandBazzar -->
+<map modes="0" tag="0" enable="true" /> <!-- DinoLab        -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Under23 -->
+
+
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- TaipeiCityMall -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode,CrossCounter" tag="0" enable="true" /> <!-- Safari2 -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- Airport -->
+<map modes="0" tag="0" enable="false" /> <!-- Safari2            -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Metrô -->
+<map modes="0" tag="0" enable="false" /> <!-- Erro 5             -->
+<map modes="0" tag="0" enable="false" /> <!-- Erro 5-1           -->
+<map modes="0" tag="0" enable="false" /> <!-- Erro 5-2           -->
+<map modes="0" tag="0" enable="false" /> <!-- Erro 5-3           -->
+<map modes="0" tag="0" enable="false" /> <!-- Erro 5-4           -->
+<map modes="0" tag="0" enable="false" /> <!-- Erro 5-5           -->
+<map modes="0" tag="0" enable="false" /> <!-- Erro 5-6           -->
+<map modes="0" tag="0" enable="false" /> <!-- Erro 6             -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Rush Hour -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Cargo Port   -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Black Mamba  -->
+
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- 80 Safe House       -->
+<map modes="0" tag="0" enable="false" /> <!-- BloodyHoliday      -->
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- WestStation      -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- Hard Rock        -->
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- HouseMuseum     -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Parque Assombrado -->
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- RothenVillage   -->
+<map modes="ShotgunMode" tag="0" enable="false" /> <!-- 87                 -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode,Chaos" tag="0" enable="true" /> <!-- 88 WaterComplex    -->
+<map modes="0" tag="0" enable="true" /> <!-- 89 HotelCamuflage  -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- Battleship -->
+<map modes="ShotgunMode" tag="0" enable="false" /> <!-- 91                -->
+<map modes="ShotgunMode" tag="0" enable="true" /> <!-- 92 Ballistic      -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode,Chaos" tag="0" enable="true" /> <!-- 93 RampartTown    -->
+<map modes="SniperMode,ShotgunMode" tag="0" enable="true" /> <!-- FalluCity -->
+<map modes="0" tag="0" enable="false" /> <!-- 95                 -->
+
+<map modes="0" tag="0" enable="false" /> <!-- 96                 -->
+<map modes="0" tag="0" enable="false" /> <!-- 97                 -->
+<map modes="SniperMode,TDM_Supression,ShotgunMode" tag="0" enable="true" /> <!-- 98 Hindrance     -->
+<map modes="Zombie" tag="0" enable="true" /> <!-- Esgotos         -->
+<map modes="SniperMode,TDM_Supression,HeadHunter,ShotgunMode,CrossCounter,Chaos" tag="0" enable="true" /> <!-- Favela          -->
+<map modes="SniperMode,TDM_Supression,HeadHunter,ShotgunMode,CrossCounter,Chaos" tag="0" enable="true" /> <!-- 101 New Library     -->
+<map modes="0" tag="1" enable="true" /> <!-- 102 C_Sandstorm     -->
+<map modes="0" tag="1" enable="false" /> <!-- 103 Dinoruins     -->
+<map modes="TDM_Supression,HeadHunter,Chaos" tag="1" enable="true" /> <!-- 104 Fatal Zone     -->
+<map modes="TDM_Supression" tag="1" enable="true" /> <!-- 105 Marine Wave     -->
+</list>

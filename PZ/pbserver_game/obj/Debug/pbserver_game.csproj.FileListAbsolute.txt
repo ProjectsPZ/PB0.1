@@ -1,0 +1,34 @@
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\pbserver_game\obj\Debug\Game.ip.resources
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\pbserver_game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\pbserver_game\obj\Debug\pbserver_game.csproj.GenerateResource.Cache
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\pbserver_game\bin\Debug\pbserver_game.exe
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\pbserver_game\bin\Debug\pbserver_game.pdb
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\pbserver_game\bin\Debug\CrashReporter.NET.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\pbserver_game\bin\Debug\Npgsql.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\pbserver_game\bin\Debug\pbserver_core.dll
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\pbserver_game\obj\Debug\pbserver_game.exe
+C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\dot\Auth\pbserver_game\obj\Debug\pbserver_game.pdb
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\obj\Debug\pbserver_game.exe
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\obj\Debug\pbserver_game.pdb
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\bin\Debug\pbserver_game.exe
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\bin\Debug\pbserver_game.pdb
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\bin\Debug\CrashReporter.NET.dll
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\bin\Debug\Npgsql.dll
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\bin\Debug\pbserver_core.dll
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\obj\Debug\Game.ip.resources
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\obj\Debug\pbserver_game.csproj.GenerateResource.Cache
+C:\Users\Enigma\Desktop\PBTroll\PBTroll UPD3 Source\pbserver_game\obj\Debug\pbserver_game.csprojResolveAssemblyReference.cache
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\bin\Debug\pbserver_game.exe
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\bin\Debug\pbserver_game.pdb
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\bin\Debug\CrashReporter.NET.dll
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\bin\Debug\Npgsql.dll
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\bin\Debug\pbserver_core.dll
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\obj\Debug\pbserver_game.csprojAssemblyReference.cache
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\obj\Debug\Game.ip.resources
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\obj\Debug\pbserver_game.csproj.GenerateResource.cache
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\obj\Debug\pbserver_game.csproj.CoreCompileInputs.cache
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\obj\Debug\pbserver_game.csproj.CopyComplete
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\obj\Debug\pbserver_game.exe
+C:\Users\2R\Desktop\Project UPD3\pbserver_game\obj\Debug\pbserver_game.pdb

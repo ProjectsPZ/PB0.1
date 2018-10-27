@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\Auth_unpacked.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A952685D-C3A1-4F2B-B02B-8303DB143759}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>pbserver_auth</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.6873.21957</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Auth</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="pbserver_core">
+      <HintPath>lib\pbserver_core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="CrashReporter.NET">
+      <HintPath>lib\CrashReporter.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql">
+      <HintPath>lib\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="CronMz">
+      <HintPath>lib\CronMz.dll</HintPath>
+    </Reference>
+    <Reference Include="pbserver_game">
+      <HintPath>lib\pbserver_game.exe</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConfigGA.cs" />
+    <Compile Include="ip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoggerGA.cs" />
+    <Compile Include="LoginClient.cs" />
+    <Compile Include="LoginManager.cs" />
+    <Compile Include="Programm.cs" />
+    <Compile Include="Properties\Settings.cs" />
+    <Compile Include="global\ReceiveLoginPacket.cs" />
+    <Compile Include="global\serverpacket\SERVER_MESSAGE_EVENT_QUEST_PAK.cs" />
+    <Compile Include="global\serverpacket\SERVER_MESSAGE_EVENT_RANKUP_PAK.cs" />
+    <Compile Include="global\serverpacket\A_2630_PAK.cs" />
+    <Compile Include="global\serverpacket\A_2677_PAK.cs" />
+    <Compile Include="global\serverpacket\A_475_PAK.cs" />
+    <Compile Include="global\serverpacket\A_LOGIN_QUEUE_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_USER_GIFT_LIST_PAK.cs" />
+    <Compile Include="global\serverpacket\AUTH_ACCOUNT_KICK_PAK.cs" />
+    <Compile Include="global\serverpacket\A_2678_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_CLIENT_EXIT_URL_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_USER_INVENTORY_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_RANK_AWARDS_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_SERVER_CHANGE_PAK.cs" />
+    <Compile Include="global\serverpacket\SERVER_MESSAGE_DISCONNECT_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_LOGIN_PAK.cs" />
+    <Compile Include="global\serverpacket\AUTH_WEB_CASH_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_USER_CLAN_MEMBERS_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_USER_CONFIG_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_USER_EXIT_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_USER_FRIENDS_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_USER_INFO_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_USER_MESSAGES_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_SERVER_LIST_PAK.cs" />
+    <Compile Include="global\serverpacket\CLAN_MEMBER_INFO_CHANGE_PAK.cs" />
+    <Compile Include="global\serverpacket\FRIEND_UPDATE_PAK.cs" />
+    <Compile Include="global\serverpacket\HELPER_PAK.cs" />
+    <Compile Include="global\serverpacket\SERVER_MESSAGE_ANNOUNCE_PAK.cs" />
+    <Compile Include="global\serverpacket\SERVER_MESSAGE_ERROR_PAK.cs" />
+    <Compile Include="global\serverpacket\SERVER_MESSAGE_ITEM_RECEIVE_PAK.cs" />
+    <Compile Include="global\serverpacket\BASE_SERVER_LIST_REFRESH_PAK.cs" />
+    <Compile Include="global\clientpacket\A_2666_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_LOGIN_THAI_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_USER_GIFTLIST_REC.cs" />
+    <Compile Include="global\clientpacket\A_2678_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_USER_INVENTORY_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_SERVER_CHANGE_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_LOGIN_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_USER_CONFIGS_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_USER_ENTER_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_USER_INFO_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_USER_EXIT_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_CONFIG_SAVE_REC.cs" />
+    <Compile Include="global\clientpacket\BASE_SERVER_LIST_REFRESH_REC.cs" />
+    <Compile Include="data\managers\AccountManager.cs" />
+    <Compile Include="data\managers\ClanManager.cs" />
+    <Compile Include="data\configs\ConfigMaps.cs" />
+    <Compile Include="data\model\Account.cs" />
+    <Compile Include="data\utils\RegionXML.cs" />
+    <Compile Include="data\sync\Auth_SyncNet.cs" />
+    <Compile Include="data\sync\update\ClanInfo.cs" />
+    <Compile Include="data\sync\server_side\SEND_REFRESH_ACC.cs" />
+    <Compile Include="data\sync\client_side\Net_Clan_Sync.cs" />
+    <Compile Include="data\sync\client_side\Net_Friend_Sync.cs" />
+    <Compile Include="data\sync\client_side\Net_Player_Sync.cs" />
+    <Compile Include="data\sync\client_side\Net_Server_Warning.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ip.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

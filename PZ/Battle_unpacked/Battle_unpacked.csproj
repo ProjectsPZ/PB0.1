@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\Enigma\Desktop\Telescopio\Camera\Interstellar Soundtrack  Hans Zimmer\Server C APB Reload\Server Udp3 By APB Reload\Battle_unpacked.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0859DCF-5230-4D3F-95DC-1AF7DD52BFBF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>pbserver_battle</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.0.21954</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Battle</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrashReporter.NET">
+      <HintPath>..\..\..\CrashReporter.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX">
+      <HintPath>..\..\..\SharpDX.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System" />
+    <Reference Include="Npgsql">
+      <HintPath>lib\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="SharpDX.Mathematics">
+      <HintPath>lib\SharpDX.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SQLjec.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="config\Config.cs" />
+    <Compile Include="config\ConfigFile.cs" />
+    <Compile Include="network\BattleManager.cs" />
+    <Compile Include="network\BattleHandler.cs" />
+    <Compile Include="network\ReceivePacket.cs" />
+    <Compile Include="network\RoomsManager.cs" />
+    <Compile Include="network\SendPacket.cs" />
+    <Compile Include="network\packets\Packet132Creator.cs" />
+    <Compile Include="network\packets\Packet4Creator.cs" />
+    <Compile Include="network\packets\Packet66Creator.cs" />
+    <Compile Include="network\actions\others\code1_GrenadeSync.cs" />
+    <Compile Include="network\actions\others\code12_StageObjAnim.cs" />
+    <Compile Include="network\actions\others\code13_ControledObj.cs" />
+    <Compile Include="network\actions\others\code3_ObjectStatic.cs" />
+    <Compile Include="network\actions\others\code6_ObjectAnim.cs" />
+    <Compile Include="network\actions\others\code9_StageInfoObjStatic.cs" />
+    <Compile Include="network\actions\others\code2_WeaponSync.cs" />
+    <Compile Include="network\actions\user\a400_Mission.cs" />
+    <Compile Include="network\actions\user\a100000_PassPortal.cs" />
+    <Compile Include="network\actions\user\a80_WeaponRecoil.cs" />
+    <Compile Include="network\actions\user\a4000_BotHitData.cs" />
+    <Compile Include="network\actions\user\a10_unk.cs" />
+    <Compile Include="network\actions\user\a1_unk.cs" />
+    <Compile Include="network\actions\user\a800_WeaponAmmo.cs" />
+    <Compile Include="network\actions\user\a100_LifeSync.cs" />
+    <Compile Include="network\actions\user\a40000_DeathData.cs" />
+    <Compile Include="network\actions\user\a2_unk.cs" />
+    <Compile Include="network\actions\user\a20000_InvalidHitData.cs" />
+    <Compile Include="network\actions\user\a8000_NormalHitData.cs" />
+    <Compile Include="network\actions\user\a20_RadioSync.cs" />
+    <Compile Include="network\actions\user\a1000_DropWeapon.cs" />
+    <Compile Include="network\actions\user\a4_PositionSync.cs" />
+    <Compile Include="network\actions\user\a200_SuicideDamage.cs" />
+    <Compile Include="network\actions\user\a80000_SufferingDamage.cs" />
+    <Compile Include="network\actions\user\a40_WeaponSync.cs" />
+    <Compile Include="network\actions\user\a10000_BoomHitData.cs" />
+    <Compile Include="network\actions\user\a2000_FireSync.cs" />
+    <Compile Include="network\actions\user\a8_MoveSync.cs" />
+    <Compile Include="network\actions\damage\DamageManager.cs" />
+    <Compile Include="data\AllUtils.cs" />
+    <Compile Include="data\sync\Battle_SyncNet.cs" />
+    <Compile Include="data\sync\client_side\RemovePlayerSync.cs" />
+    <Compile Include="data\sync\client_side\RespawnSync.cs" />
+    <Compile Include="data\xml\MeleeExceptionsXML.cs" />
+    <Compile Include="data\xml\MeleeExcep.cs" />
+    <Compile Include="data\xml\CharaXML.cs" />
+    <Compile Include="data\xml\CharaModel.cs" />
+    <Compile Include="data\xml\MappingXML.cs" />
+    <Compile Include="data\xml\MapModel.cs" />
+    <Compile Include="data\xml\BombPosition.cs" />
+    <Compile Include="data\xml\ObjModel.cs" />
+    <Compile Include="data\xml\AnimModel.cs" />
+    <Compile Include="data\xml\DEffectModel.cs" />
+    <Compile Include="data\xml\ServersXML.cs" />
+    <Compile Include="data\models\DeathServerData.cs" />
+    <Compile Include="data\models\GameServerModel.cs" />
+    <Compile Include="data\models\ObjectInfo.cs" />
+    <Compile Include="data\models\ObjectHitInfo.cs" />
+    <Compile Include="data\models\ActionModel.cs" />
+    <Compile Include="data\models\PacketModel.cs" />
+    <Compile Include="data\models\Player.cs" />
+    <Compile Include="data\models\Room.cs" />
+    <Compile Include="data\enums\BasicFlags.cs" />
+    <Compile Include="data\enums\CHARACTER_RES_ID.cs" />
+    <Compile Include="data\enums\CHARA_DEATH.cs" />
+    <Compile Include="data\enums\HitType.cs" />
+    <Compile Include="data\enums\HIT_CHARA_PART2.cs" />
+    <Compile Include="data\enums\ObjectType.cs" />
+    <Compile Include="data\enums\CharaMoves.cs" />
+    <Compile Include="data\enums\P2P_SUB_HEAD.cs" />
+    <Compile Include="data\enums\Events.cs" />
+    <Compile Include="data\enums\weapon\EQMIPEMENT_SLOT.cs" />
+    <Compile Include="data\enums\weapon\ITEM_CLASS.cs" />
+    <Compile Include="data\enums\weapon\ClassType.cs" />
+    <Compile Include="data\enums\bomb\BombFlag.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ip.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
